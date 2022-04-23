@@ -1,4 +1,4 @@
-# state_management
+# Flutter stateful widget example
 
 A new Flutter project.
 
