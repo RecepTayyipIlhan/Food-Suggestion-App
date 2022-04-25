@@ -1,5 +1,5 @@
 # Flutter stateful widget example
 
-A new Flutter project.
+A basic food suggestion app
 
 ![](assets/food_suggestion.png)
